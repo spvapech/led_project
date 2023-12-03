@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="LEDControl_v2_r8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LEDControl_v2_r8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/LEDControl_v2_r8.jar!/" />
+    </SOURCES>
+  </library>
+</component>
